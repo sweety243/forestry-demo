@@ -2,7 +2,7 @@
 title: Projects
 layout: projects
 description: Projects by Belkirk College
-publish_date: 2017-11-01 03:00:00 +0000
+publish_date: 2017-11-01 03:00:00 Z
 menu:
   footer:
     identifier: _projects
@@ -12,3 +12,4 @@ menu:
     identifier: _projects
     weight: 3
 ---
+
